@@ -1,0 +1,42 @@
+body{
+    background-color: #efefefef;
+}
+.container{
+    font-family: 'Montserrat';
+    text-align: left;
+}
+
+
+
+h1{
+    margin: 25px 5px 0px 5px;
+    text-align: center;
+    
+}
+ol{
+    font-size: 18px;
+    width: 65%;
+    margin-left: 15%;
+}
+p{
+    text-indent: 1.5rem;
+    margin-left: 5px;
+}
+hr{
+    width: 235px;
+    height: 4px;
+    border-radius: 10px;
+    background-color: black;
+    margin-top: 0px;
+    border: none;
+}
+.Wiquepediaaa{
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+}
+.logoWiki{
+    width: 15%;
+    height: 15%;
+    margin-left: 2.5%;
+}
